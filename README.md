@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PyScrub
-- 👀 I’m interested in becoming a junior back-end developer
+- 👀 I’m interested in starting working professionally with Python and SQL
 - 🌱 I’m currently learning advanced Python
-- 💞️ I’m looking to collaborate on not being a total noob?
+- 💞️ I’m looking to collaborate on some small project with a front-end developer
 - 📫 How to reach me - just message me :)
 
 <!---
